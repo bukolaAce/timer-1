@@ -1,3 +1,4 @@
+
 class Timer{
     constructor(durationInput,startTimer,pauseTimer,callbacks){
         this.durationInput=durationInput;
